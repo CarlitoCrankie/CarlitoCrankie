@@ -57,7 +57,7 @@ to groundbreaking inventions that shape the world.😁😎🤝🏻🤝🏻
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,py,java" />
-    <img src="https://skillicons.dev/icons?i=git,github,bash,docker,tailwindcss,figma,tensorflow,nodejs,django,spring,express,react,vue,nextjs,mysql,postgres,arduino,raspberrypi,bootstrap,jquery," /><br>
+    <img src="https://skillicons.dev/icons?i=git,bash,docker,tailwindcss,tensorflow,spring,express,react,vue,nextjs,mysql,postgres,arduino,bootstrap,jquery," /><br>
 </div>
 
 <br/>
